@@ -26241,7 +26241,7 @@
 		return React.createElement(
 			'h2',
 			null,
-			'Examples Componenet'
+			'Examples Componenets'
 		);
 	};
 	module.exports = Examples;
