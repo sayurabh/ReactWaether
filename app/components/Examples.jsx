@@ -10,6 +10,7 @@ var Examples = (props) =>{
 	
 		return (
 			<h2>Examples Componenets</h2>
+			<h2>Welcome To haha</h2>
 		)
 	
 };
